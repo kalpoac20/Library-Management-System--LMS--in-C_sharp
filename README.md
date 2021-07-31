@@ -1,2 +1,2 @@
-# Library-Management-System-in-C_sharp-master
+# Library-Management-System-(LMS)-in-C_sharp
  
